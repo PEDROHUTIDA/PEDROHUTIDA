@@ -7,4 +7,4 @@
 ### _voce entra em contato comigo_ 📧
 
 pedro.utida@escola.pr.gov.br
-![](https://tenor.com/pt-BR/view/sai-da-frente-truck-driving-flamengo-ride-gif-17856114)
+![https://tenor.com/pt-BR/view/sai-da-frente-truck-driving-flamengo-ride-gif-17856114]()
