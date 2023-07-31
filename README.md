@@ -1,4 +1,4 @@
-### _boas vindas ao meu perfil_ 👋
+### _boas vindas ao meu perfil_ 🔥
 
 <!--
 **PEDROHUTIDA/PEDROHUTIDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
