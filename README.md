@@ -2,7 +2,7 @@
 
 ### _meu nome é pedro utida_
 
-### _sou estudante do alura_
+### _sou estudante do ![alura](https://alura.com.br)_
 ### _estou me desenvolvendo na linguagem javascript_
 ### _voce entra em contato comigo_ 📧
 
